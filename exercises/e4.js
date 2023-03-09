@@ -12,7 +12,7 @@
 function splitFirstAndLastNames(str) {
   return str.split(' ');
 }
-
+//It passed even tho I did no code for this the .md I think is out of order
 
 /** =========================
  * The personAge() constant is assigned to a function, that takes an object of person Data as the argument.
